@@ -1,0 +1,12 @@
+# Burp project files and exports (may contain session cookies)
+*.burp
+burp-exports/
+
+# Secrets
+.env
+*.key
+
+# OS and editor files
+Thumbs.db
+.DS_Store
+.vscode/
